@@ -5,14 +5,14 @@
 ## Number of latent space = 10
 ## Beta = 4
 
-![Demo](Screenshot from 2019-12-26 16-56-51.png)
+![Demo](sprite.png)
 <br>
 
-# Latent spaces Screenshot from 2019-12-26 16-58-13.png
+# Latent spaces
 <br>
 
-## Roatation
-![Demo](2019-12-26 16-58-13.png)
+## Rotation
+![Demo](0.png)
 
 ## Nothing at all (One of the perks of beta-VAE)
 ![Demo](1.png)
