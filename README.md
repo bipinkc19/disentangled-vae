@@ -1,14 +1,14 @@
 # Beta-VAE (Disentangled-VAE)
 
 
-# Generative model outpu
-## Number of latent space = 10
-## Beta = 4
+## Generative model output
+- Number of latent space = 10
+- Beta = 4
 
 ![Demo](sprite.png)
 <br>
 
-# Latent spaces
+# Latent spaces representative
 <br>
 
 ## Rotation
