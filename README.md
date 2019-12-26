@@ -11,11 +11,12 @@
 # Latent spaces representative
 <br>
 
-## Rotation
-![Demo](0.png)
 
 ## Roundness
 ![Demo](2.png)
+
+## Rotation
+![Demo](0.png)
 
 ## Roundness
 ![Demo](3.png)
